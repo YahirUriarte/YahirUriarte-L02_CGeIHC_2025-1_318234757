@@ -4,4 +4,4 @@ Laboratorio de Computación Gráfica e Interacción Humano Computadora.<br>
 Grupo 02.<br>
 Semestre 2025-1.<br><br>
 
-NOTA: Dentro de los archivos ZIP se encuentran los Windows.h y .cpp de la practica y el ejercicio correspondiente, ademas de los modelos y archivos extras modificados
+NOTA: Debido al tamaño de la carpeta models y texture se comprimieron por separado
